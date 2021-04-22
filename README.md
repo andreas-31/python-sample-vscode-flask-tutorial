@@ -1,4 +1,5 @@
 # Python/Flask Tutorial for Visual Studio Code
+[![Build Status](https://dev.azure.com/Agaupmann0652/python-sample-vscode-flask-tutorial/_apis/build/status/andreas-31.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/Agaupmann0652/python-sample-vscode-flask-tutorial/_build/latest?definitionId=2&branchName=master)
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
 
